@@ -1,4 +1,2 @@
-conda/
-.ipynb_checkpoints/
-conda-meta/
 etc/
+conda-meta/

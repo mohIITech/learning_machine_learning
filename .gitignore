@@ -1,2 +1,4 @@
 etc/
 conda-meta/
+.ipynb_checkpoints
+
